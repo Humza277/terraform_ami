@@ -11,3 +11,8 @@ Terraform - Orchestration
 Kubernetes - orchestration is used in containerisation - docker, crio, rocket
 
 Terraform
+- Terraform files are created with .tf
+
+-commands
+    terraform init - iniilises terraform in your project directory 
+    terraform plan - cheklcs the steps inside the code and lists success or errors 
