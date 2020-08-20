@@ -1,4 +1,4 @@
 .logs/
 .vagrant/
 .idea/
-.terraform
+.terraform/plugins
